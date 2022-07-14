@@ -144,3 +144,19 @@ a span:nth-child(4) {
     bottom: 100%;
   }
 }
+
+@media screen and (min-width:480px) {
+  #c-1 {
+    height: 30rem !important;
+
+  }
+
+  #c-2 {
+    height: 30rem !important;
+  }
+
+  #c-3 {
+    height: 10rem !important;
+  }
+
+}
